@@ -14,7 +14,7 @@ __pycache__/
 .env
 .env.local
 
-# Model files (often too large for git)
+# Model files
 *.gguf
 models/*.gguf
 
